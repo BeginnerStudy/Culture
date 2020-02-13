@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617482692617",
+    "firebase_url": "https://culture-96df1.firebaseio.com",
+    "project_id": "culture-96df1",
+    "storage_bucket": "culture-96df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617482692617:android:e0f06ed6619df1911370d8",
+        "android_client_info": {
+          "package_name": "com.practice.culture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617482692617-76grbl4n0mr37fsf0b9mqjm6gtodl97d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.culture",
+            "certificate_hash": "15e586d1b932d31f312c599ac0727e65d06e248e"
+          }
+        },
+        {
+          "client_id": "617482692617-2v5cp7408djhvvk998ofkfvobnps5fof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQsfwSCgBDU0GCerjsDNhl-T70oe68ds8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617482692617-2v5cp7408djhvvk998ofkfvobnps5fof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
