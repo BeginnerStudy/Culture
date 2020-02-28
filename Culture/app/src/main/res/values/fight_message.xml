@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fight_message">
+        <item>攻擊</item>
+
+
+
+        <item>受到傷害</item>
+
+
+
+    </string-array>
+
+
+
+
+</resources>

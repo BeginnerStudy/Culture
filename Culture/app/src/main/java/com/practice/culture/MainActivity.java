@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void setAnimation(){
         Anim = new AnimationDrawable();
-        Anim.setOneShot(false);  //true表示只循環一次
+        Anim.setOneShot(true);  //true表示只循環一次
 
         Anim.addFrame(new BitmapDrawable(role1),200);
         Anim.addFrame(new BitmapDrawable(role2),200);
